@@ -43,15 +43,18 @@ word for word):
 
     Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
 
-    Play code: makefun-glove-waffle-sparrow
+    Play code: makefun-spatula-dahlia-rain
 
     Vice City is back. GTA 6 Trailer 2, cut into a Short.
     #GTA6 #GTA6Trailer #ViceCity #Shorts
 
-Play code: `makefun-glove-waffle-sparrow` — code 0 of 4 for George's make.fun
-account, verified for this contest with the kit CLI (`check` prints the
-account's play codes; see the build report). Any one of the four passes; this
-is the same code verified for the `gta6-meme-x-01` bounty.
+Play code: `makefun-spatula-dahlia-rain` — code 0 of 4 for George's make.fun
+account, verified for THIS contest with the kit CLI on 2026-11-20 (the check
+prints it: "play code: makefun-spatula-dahlia-rain (code 0 of your 4 in
+gta6-clipper-01)"). It is NOT the meme-contest code
+(`makefun-glove-waffle-sparrow` is for `gta6-meme-x-01` only — the codes are
+per-competition, and assuming the old one would have failed the entry).
+Any one of the four codes passes; this is code 0.
 
 ## Status: NOT uploaded, NOT submitted
 
