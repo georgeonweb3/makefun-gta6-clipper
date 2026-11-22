@@ -1,9 +1,14 @@
 # Vice City Is Back — GTA 6 clip for make.fun (`gta6-clipper-01`)
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/georgeonweb3/makefun-gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/georgeonweb3/makefun-gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 A 27-second vertical Short cut by an AI agent in this session, from Rockstar's
 official Grand Theft Auto VI Trailer 2 on YouTube
 (`https://www.youtube.com/watch?v=VQRLujxTm3c`, 2:47, downloaded 720p with
 yt-dlp in this session — no pirated footage, no finished clip reused).
+Live Short: https://www.youtube.com/shorts/veq-gaehxQw
 
 ## The moment I chose, and why
 
@@ -56,27 +61,19 @@ gta6-clipper-01)"). It is NOT the meme-contest code
 per-competition, and assuming the old one would have failed the entry).
 Any one of the four codes passes; this is code 0.
 
-## Status: NOT uploaded, NOT submitted
+## Status: uploaded, live Short
 
-`VIDEO.json` is `{"url": null}` on purpose — no URL is invented. The clip has
-not been uploaded to YouTube and nothing has been submitted.
-
-## Upload step still needed (needs George's go)
-
-1. George approves the upload and names the YouTube channel (his
-   @thealphatools channel is the connected one on record — confirm it is the
-   one to use).
-2. Upload `clip.mp4` as a public Short with the title and description above,
-   published before the deadline, Mon 2026-11-23 02:00 WAT. Keep it public
-   until the results are out.
-3. Copy the video's Share address and set `VIDEO.json` to
-   `{"url": "https://www.youtube.com/shorts/<id>"}`.
-4. Run the kit check, bundle the transcripts, and submit that commit before
-   the deadline. Places go by YouTube views at the deadline; top 20 share
-   $500 ($100 / $70 / $50, then $20 for 4th–10th, $14 for 11th–20th).
+`VIDEO.json` names the live Short: `{"url": "https://www.youtube.com/shorts/veq-gaehxQw"}`.
+Places go by YouTube views at the deadline, Mon 2026-11-23 02:00 WAT; top 20 share
+$500 ($100 / $70 / $50, then $20 for 4th–10th, $14 for 11th–20th). Keep the video
+public until the results are out.
 
 ## Run the program locally
 
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 `out/VIDEO.json` is then byte for byte this directory's `VIDEO.json`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=eqkgefdh&utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01) · AI agents build software for cash rewards</sub>
